@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class InfijoToSufijo {
+public class InfixToSufix {
 
     public static String InfToSuf(String infix){
         //conversion de la expresion
